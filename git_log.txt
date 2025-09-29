@@ -1,0 +1,6 @@
+7dbdfdb missclick
+0620b7b Personnize hello message with my name
+e6f7747 Add hello_git.py
+42431d4 Add my name and date
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
