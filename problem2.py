@@ -61,8 +61,8 @@ def temperature_converter():
     elif unit == "F":
         converted = (temp - 32) * 5/9
         print(f"{temp:.2f}°F = {converted:.2f}°C")
-    else:
-        print("⚠️ Invalid unit! Please enter 'C' or 'F'.")
+        else:
+            print("⚠️ Invalid unit! Please enter 'C' or 'F'.")
     pass
 
 
