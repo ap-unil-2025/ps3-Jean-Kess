@@ -1,1 +1,1 @@
-Print(Benoit Guignard)
+Benoit Guignard
