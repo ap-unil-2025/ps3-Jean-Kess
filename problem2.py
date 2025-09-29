@@ -54,7 +54,7 @@ def temperature_converter():
     # - Perform conversion
     # - Display result rounded to 2 decimal places
     temp = float(input("Enter temperature value"))
-    unit = input("Enter the current unit (C/F)").upper
+    unit = input("Enter the current unit (C/F)")
     if unit == "C":
             converted = (temp * 9/5) + 32
             print(f"{temp:.2f}°C = {converted:.2f}°F")
